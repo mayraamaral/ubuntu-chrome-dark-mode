@@ -1,4 +1,4 @@
-# ubuntu-chrome-dark-mode
+# Automating Setting Dark Mode in Chrome using Ubuntu
 
 I faced a problem with dark mode in Linux Ubuntu 22, specially when using Chrome. I had to manually set dark mode in Chrome using [this tutorial](https://dev.to/ankitbrijwasi/enable-dark-mode-in-chrome-on-ubuntu-20na), but every time I updated Ubuntu, Chrome was set to light mode again and I had to manually make the process all over again.
 
