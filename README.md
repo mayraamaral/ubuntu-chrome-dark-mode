@@ -9,3 +9,5 @@ Then, I had an idea 💡
 I developed a simple shell script code to set Chrome to dark mode. It is available in this repository, the file is named "chromedarkmode.sh".
 
 To make the process even more simple, I created an alias in `.zshrc` named "chromedarkmode" pointing to the path of the "chromedarkmode.sh" file and, now, every time I update my system, I just had to type the command "chromedarkmode" in terminal and that's it.
+
+In the command, I used sed, but you can use perl as well. Go ahead :)
